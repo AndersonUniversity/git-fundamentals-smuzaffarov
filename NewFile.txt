@@ -1,0 +1,6 @@
+should something change???
+git status
+git add to add file git add _____
+git commit -m "add file with git"
+git push
+
